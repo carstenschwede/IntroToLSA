@@ -1,5 +1,6 @@
-** Installation on Mac **
+Installation on Mac
 
+- Make sure you have X11 installed (https://www.xquartz.org/)
 - Make sure you have Homebrew installed (https://brew.sh/index_de.html)
 - open terminal and install poppler: ```brew install poppler --with-glib```
 - download the slam package binary for your OS X version (https://cran.r-project.org/web/packages/slam/index.html)
