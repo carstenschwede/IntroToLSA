@@ -1,5 +1,6 @@
 Installation on Mac
 
+- Make you sure you have R + RStudio installed https://www.r-project.org/about.html, https://www.rstudio.com/
 - Make sure you have X11 installed (https://www.xquartz.org/)
 - Make sure you have Homebrew installed (https://brew.sh/index_de.html)
 - open terminal and install poppler: ```brew install poppler --with-glib```
